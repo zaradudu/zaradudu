@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zaradudu
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML5, CSS, Java
+- 👋 Hi, I’m Xin
+- 👀 I’m interested in programming as Full Stack
+- 🌱 I’m currently learning HTML5, CSS, Java, Spring
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 If having any stage opportunity, please contact me at cyndixz@gmail.com
 
 <!---
 zaradudu/zaradudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
