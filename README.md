@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Xin
-- 👀 I’m interested in programming as Full Stack
-- 🌱 I’m currently learning HTML5, CSS, Java, Spring
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Xin Zhao
+- 👀 I’m learning to be a full stack developer
+- 🌱 I’m currently having some level of knowledage of HTML5, CSS, Java, Springboot, PHP, C#, React, MySQL, MicroSQL, MongoDB
+- 💞️ I’m looking for a internship or junior level job opportunity to practise and learn more ...
 - 📫 If having any stage opportunity, please contact me at cyndixz@gmail.com
 
 <!---
